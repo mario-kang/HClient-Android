@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="LanguageName">
+        <item>albanian</item>
+        <item>arabic</item>
+        <item>catalan</item>
+        <item>chinese</item>
+        <item>czech</item>
+        <item>danish</item>
+        <item>dutch</item>
+        <item>english</item>
+        <item>esperanto</item>
+        <item>estonian</item>
+        <item>finnish</item>
+        <item>french</item>
+        <item>german</item>
+        <item>greek</item>
+        <item>hebrew</item>
+        <item>hungarian</item>
+        <item>indonesian</item>
+        <item>italian</item>
+        <item>japanese</item>
+        <item>korean</item>
+        <item>latin</item>
+        <item>norwegian</item>
+        <item>polish</item>
+        <item>portuguese</item>
+        <item>romanian</item>
+        <item>russian</item>
+        <item>slovak</item>
+        <item>spanish</item>
+        <item>swedish</item>
+        <item>tagalog</item>
+        <item>thai</item>
+        <item>turkish</item>
+        <item>ukrainian</item>
+        <item>vietnamese</item>
+    </string-array>
+    <string-array name="LanguageName_Localized">
+        <item>Albanian</item>
+        <item>Arabic</item>
+        <item>Catalan</item>
+        <item>Chinese</item>
+        <item>Czech</item>
+        <item>Danish</item>
+        <item>Dutch</item>
+        <item>English</item>
+        <item>Esperanto</item>
+        <item>Estonian</item>
+        <item>Finnish</item>
+        <item>French</item>
+        <item>German</item>
+        <item>Greek</item>
+        <item>Hebrew</item>
+        <item>Hungarian</item>
+        <item>Indonesian</item>
+        <item>Italian</item>
+        <item>Japanese</item>
+        <item>Korean</item>
+        <item>Latin</item>
+        <item>Norwegian</item>
+        <item>Polish</item>
+        <item>Portuguese</item>
+        <item>Romanian</item>
+        <item>Russian</item>
+        <item>Slovak</item>
+        <item>Spanish</item>
+        <item>Swedish</item>
+        <item>Tagalog</item>
+        <item>Thai</item>
+        <item>Turkish</item>
+        <item>Ukrainian</item>
+        <item>Vietnamese</item>
+    </string-array>
+    <string-array name="longClick">
+        <item>Delete item</item>
+    </string-array>
+</resources>

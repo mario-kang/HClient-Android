@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">HClient</string>
+    <string name="all">全選</string>
+    <string name="artist">藝人：</string>
+    <string name="bookmark">書簽</string>
+    <string name="cancel">取消</string>
+    <string name="characters">人物：</string>
+    <string name="could_not1">找不到Hitomi號碼</string>
+    <string name="could_not2">。</string>
+    <string name="date">日期：</string>
+    <string name="find_number1">搜尋Hitomi號碼</string>
+    <string name="groups">組：</string>
+    <string name="hitomi_number">Hitomi號碼</string>
+    <string name="items">個項目</string>
+    <string name="language1">語言：</string>
+    <string name="language">語言</string>
+    <string name="main">首頁</string>
+    <string name="navigation_drawer_close">關閉導航欄</string>
+    <string name="navigation_drawer_open">打開導航欄</string>
+    <string name="open_in_browser">在網絡瀏覽器中打開</string>
+    <string name="open_in_viewer">在瀏覽器中打開</string>
+    <string name="type">類型：</string>
+    <string name="tag">標籤：</string>
+    <string name="share_url">共享URL</string>
+    <string name="search">搜尋</string>
+    <string name="please_wait">請稍候。</string>
+    <string name="series">系列：</string>
+    <string name="share_with">分享給</string>
+</resources>
+

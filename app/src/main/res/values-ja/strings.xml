@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">HClient</string>
+    <string name="all">全部</string>
+    <string name="artist">アーティスト：</string>
+    <string name="bookmark">ブックマーク</string>
+    <string name="cancel">キャンセル</string>
+    <string name="could_not1">Hitomiナンバー</string>
+    <string name="characters">キャラクター</string>
+    <string name="could_not2">を見つかることができませんでした。</string>
+    <string name="date">日付：</string>
+    <string name="find_number1">Hitomiナンバー</string>
+    <string name="find_number2">を検索</string>
+    <string name="groups">グループ：</string>
+    <string name="hitomi_number">Hitomiナンバー</string>
+    <string name="items">個の項目</string>
+    <string name="language">言語</string>
+    <string name="language1">言語：</string>
+    <string name="main">メイン</string>
+    <string name="navigation_drawer_close">ナビゲーションドロワーを閉じる</string>
+    <string name="navigation_drawer_open">ナビゲーションドロワーを開く</string>
+    <string name="open_in_browser">ブラウザーで観る</string>
+    <string name="open_in_viewer">ビュアーで観る</string>
+    <string name="please_wait">しばらくお待ちください。</string>
+    <string name="search">検索</string>
+    <string name="series">原作：</string>
+    <string name="share_url">URLをシェア</string>
+    <string name="share_with">シェアするアプリを指定</string>
+    <string name="tag">タグ：</string>
+    <string name="type">種類：</string>
+</resources>

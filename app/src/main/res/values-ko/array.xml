@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="LanguageName">
+        <item>albanian</item>
+        <item>arabic</item>
+        <item>catalan</item>
+        <item>chinese</item>
+        <item>czech</item>
+        <item>danish</item>
+        <item>dutch</item>
+        <item>english</item>
+        <item>esperanto</item>
+        <item>estonian</item>
+        <item>finnish</item>
+        <item>french</item>
+        <item>german</item>
+        <item>greek</item>
+        <item>hebrew</item>
+        <item>hungarian</item>
+        <item>indonesian</item>
+        <item>italian</item>
+        <item>japanese</item>
+        <item>korean</item>
+        <item>latin</item>
+        <item>norwegian</item>
+        <item>polish</item>
+        <item>portuguese</item>
+        <item>romanian</item>
+        <item>russian</item>
+        <item>slovak</item>
+        <item>spanish</item>
+        <item>swedish</item>
+        <item>tagalog</item>
+        <item>thai</item>
+        <item>turkish</item>
+        <item>ukrainian</item>
+        <item>vietnamese</item>
+    </string-array>
+    <string-array name="LanguageName_Localized">
+        <item>알바니아어</item>
+        <item>아랍어</item>
+        <item>카탈로니아어</item>
+        <item>중국어</item>
+        <item>체코어</item>
+        <item>덴마크어</item>
+        <item>네덜란드어</item>
+        <item>영어</item>
+        <item>에스페란토어</item>
+        <item>에스토니아어</item>
+        <item>핀란드어</item>
+        <item>프랑스어</item>
+        <item>독일어</item>
+        <item>그리스어</item>
+        <item>히브리어</item>
+        <item>헝가리어</item>
+        <item>인도네시아어</item>
+        <item>이탈리아어</item>
+        <item>일본어</item>
+        <item>한국어</item>
+        <item>라틴어</item>
+        <item>노르웨이어</item>
+        <item>폴란드어</item>
+        <item>포르투갈어</item>
+        <item>루마니아어</item>
+        <item>러시아어</item>
+        <item>슬로바키아어</item>
+        <item>스페인어</item>
+        <item>스웨덴어</item>
+        <item>타갈로그어</item>
+        <item>태국어</item>
+        <item>터키어</item>
+        <item>우크라이나어</item>
+        <item>베트남어</item>
+    </string-array>
+    <string-array name="longClick">
+        <item>항목 삭제</item>
+    </string-array>
+</resources>

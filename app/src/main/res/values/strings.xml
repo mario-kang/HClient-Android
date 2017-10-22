@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">HClient</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="bookmark">Bookmark</string>
+    <string name="share_url">Share URL</string>
+    <string name="open_in_browser">Open in Browser</string>
+    <string name="language">Language</string>
+    <string name="open_in_viewer">Open in Viewer</string>
+    <string name="main">Main</string>
+    <string name="search">Search</string>
+
+    <string name="please_wait">Please wait.</string>
+    <string name="cancel">Cancel</string>
+    <string name="language1">"Language: "</string>
+    <string name="tag">"Tags: "</string>
+    <string name="series">"Series: "</string>
+    <string name="artist">"Artist: "</string>
+    <string name="type">"Type: "</string>
+    <string name="characters">"Characters: "</string>
+    <string name="groups">"Groups: "</string>
+    <string name="date">"Date: "</string>
+    <string name="share_with">Share to</string>
+    <string name="hitomi_number">"Hitomi number "</string>
+    <string name="all">all</string>
+    <string name="could_not1">"Could not find number "</string>
+    <string name="could_not2">.</string>
+    <string name="find_number1">Find Hitomi number</string>
+    <string name="find_number2" />
+    <string name="items">" item(s)"</string>
+
+</resources>
